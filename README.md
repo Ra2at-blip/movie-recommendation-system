@@ -65,7 +65,7 @@ Contains the TMDB movie dataset used to train the recommendation model.
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/Ra2at-blip/movie-recommendation-system.git
 ```
 
 ### 2. Navigate to the Project Folder
